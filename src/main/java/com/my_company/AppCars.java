@@ -2,7 +2,7 @@ package com.my_company;
 
 import java.sql.*;
 
-public class App {
+public class AppCars {
     public static void main(String[] args){
 
         Connection conn = null;
